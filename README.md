@@ -27,5 +27,5 @@ Activity 1: Design Your Own Class
 
 Clone this repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/oop-assignment.git
+git clone https://github.com/daizy-jepchumba/oop-assignment.git
 cd oop-assignment
